@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoFragmentLayoutHikmawati</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="explore_fragment">Explore Fragment</string>
+</resources>
